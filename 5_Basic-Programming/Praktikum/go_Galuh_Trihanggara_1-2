@@ -1,0 +1,21 @@
+// Program Untuk Menentukan Suatu Bilangan Ganjil Genap
+// by Galuh Trihanggara
+package main
+
+import "fmt"
+
+func main() {
+	for i := 1; i < 50; i++ {
+		fmt.Print("Masukkan Bilangan yang anda inginkan :")
+		fmt.Scan(&i)
+		if i <= 50 {
+			if i%2 == 0 {
+				fmt.Print(i, " adalah bilangan genap \n")
+			} else {
+				fmt.Print(i, " adalah bilangan ganjil \n")
+			}
+		} else {
+			fmt.Print("mohon maaf, angka yang anda input sudah penuh.")
+		}
+	}
+}

@@ -1,0 +1,23 @@
+// Program Mencari Fizz Buzz dari kelipatan 3 dan kelipatan 5
+// By Galuh Trihanggara
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	for i := 1; i <= 100; i++ {
+		if i%15 == 0 {
+			fmt.Printf("FizzBuzz")
+		} else if i%3 == 0 {
+			// Mencetak kelipatan 3 dengan kata "Fizz"
+			fmt.Printf("Fizz")
+		} else if i%5 == 0 {
+			// Mencetak kelipatan 5 dengan kata "Buzz"
+			fmt.Printf("Buzz")
+		} else {
+			fmt.Printf("%d", i)
+		}
+	}
+}

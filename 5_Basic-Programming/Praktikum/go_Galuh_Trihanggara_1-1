@@ -1,0 +1,18 @@
+// Program Untuk Menentukan Luas Dari Sebuah Trapesium
+// By Galuh Trihanggara
+package main
+
+import "fmt"
+
+func main() {
+
+	var a, b, t, luas float32
+	fmt.Println("Masukkan panjang atas trapesium : ")
+	fmt.Scan(&a)
+	fmt.Println("Masukkan panjang bawah trapesium : ")
+	fmt.Scan(&b)
+	fmt.Println("Masukkan tinggi trapesium : ")
+	fmt.Scan(&t)
+	luas = 0.5 * (a + b) * t
+	fmt.Println("Luas trapesium adalah ", luas)
+}

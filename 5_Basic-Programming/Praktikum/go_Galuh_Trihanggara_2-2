@@ -1,0 +1,18 @@
+// sebuah program untuk mencetak faktor bilangan dari sebuah angka
+// By Galuh Trihanggara
+package main
+
+import "fmt"
+
+func main() {
+	var angka int = 100
+	fmt.Printf("Masukan Bilangan Yang Anda Inginkan : ")
+	fmt.Scanf("%d", &angka)
+	fmt.Printf("faktor dari bilangan %d yaitu :\n", angka)
+	for i := 1; i <= angka; i++ {
+		if angka%i == 0 {
+			fmt.Printf("%d", i)
+			fmt.Printf("\n")
+		}
+	}
+}
