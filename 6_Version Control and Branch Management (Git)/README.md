@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
+Resume Version Control and Branch Management (Git):
 - pada pertemuan pertama membahas Version Control and Branch Management (Git)
 - membahas jenis-jenis dari Version Control System:
     - Single user : (SCCS,RCS)
