@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+Resume Introduction to Problem Solving Paradigm - Brute Force Greedy and Dynamic Programming:
+- pada pertemuan ini membahas definisi dari Problem Solving Paradigm - Brute Force Greedy and Dynamic Programming kemudian beserta contoh penerapanya
+- membahas penggunaan fibonacci recursive  untuk mencari bilangan fibonacci.
+- membahas binary search dan juga penggunaan dari greedy beserta contoh-contoh nya
