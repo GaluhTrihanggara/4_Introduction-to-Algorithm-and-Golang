@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+Resume Introduction to Concurrent Programing:
+- pada pertemuan pertama bagaimana penggunaan dari goroutine dan gomaxprocs
+- membahas penggunaan dari channel dan select beserta contoh penerapan agar ada gambaran dalam mengeksekusi programnya
+- penggunaan untuk fixing data race terdapat 3 opsi yaitu WaitGroups, channels blocking, Mutex.
