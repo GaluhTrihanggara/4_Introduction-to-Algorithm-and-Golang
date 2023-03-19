@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+Resume Introduction to join - Union - Agregasi - Subquery - Function (DBMS):
+- pada pertemuan membahas penggunaan dari join
+- membahas penggunaan dari union
+- membahas penggunaan dari agregas dan subqueary
