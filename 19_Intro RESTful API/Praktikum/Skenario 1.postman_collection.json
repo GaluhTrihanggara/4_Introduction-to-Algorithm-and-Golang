@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "ccdd4859-c912-4b3c-a066-38c2ff111843",
+		"name": "Skenario 1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26481764"
+	},
+	"item": [
+		{
+			"name": "Tampilkan data yang diperoleh dari API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Tampilkan data dengan id 3 yang diperoleh dari API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Simpan data postingan ke server melalui API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Hapus suatu data melalui API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
