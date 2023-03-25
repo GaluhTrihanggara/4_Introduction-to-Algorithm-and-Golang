@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+Resume Intro Echo Golang:
+- pada pertemuan ini membahas Penggunaan Echo Golang
+- membahas bagaimana penggunaan dari JSON itu sendiri sehingga bisa digunakan dalam echoframework
+- membahas penggunaan postman 
