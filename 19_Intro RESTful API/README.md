@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+Resume Intro RESTful API:
+- pada pertemuan ini membahas bagiamana membuat sebuah GET POST PUT dan DELETE
+- membahas Definisi dari APi itu sendiri
+- membahas tentang berbagai error yang ada di http
