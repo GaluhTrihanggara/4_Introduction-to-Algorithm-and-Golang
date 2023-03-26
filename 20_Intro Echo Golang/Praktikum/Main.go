@@ -142,6 +142,9 @@ func main() {
 	e := echo.New()
 	// routing with query parameter
 	e.GET("/users", GetUsersController)
+	e.GET("/users/:id", GetUserController)
+	e.DELETE("/users/:id", DeleteUserController)
+	e.PUT("/users/:id", UpdateUserController)
 	e.POST("/users", CreateUserController)
 
 	// start the server, and log if it fails
