@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+Resume System Design:
+- pada pertemuan ini membahas definisi dari flowchart dan fungsi dari usecase diagram
+- membahas perbedaan dari horizontal scaling dan vertical scaling
+- membahas definisi dari availability, Rel;ability, dan efficiency
