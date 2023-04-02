@@ -1,8 +1,7 @@
 package main
 
 import (
-	"Echo/Praktikum/middlewares"
-	"Echo/Praktikum/routes"
+	"Praktikum/routes"
 	"Praktikum/config"
 	"Praktikum/middlewares"
 
