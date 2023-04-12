@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+Resume Unit Testing:
+- pada pertemuan ini mempelajari  apa itu Mocking, Runner, dan Structure dalam unit testing
+- mempelajari bagaimana cara  merun with  report coverage dan diberikan contoh casenya
+- mempelajari bagaimana merun  unit test Rest API with report coverage all package.
