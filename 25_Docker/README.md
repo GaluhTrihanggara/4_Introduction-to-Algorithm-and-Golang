@@ -1,4 +1,4 @@
 Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+- pada pertemuan ini membahas definisi dari docker
+- membahas definisi dari container
+- membahas penggunaan dari docker
