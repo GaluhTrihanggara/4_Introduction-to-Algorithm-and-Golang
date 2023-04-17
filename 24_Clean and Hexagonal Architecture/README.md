@@ -1,4 +1,4 @@
-Resume Introduction to Algorithm and Golang:
-- pada pertemuan pertama membahas introduction algoritma
-- membahas karakteristik dari algoritma
-- membahas konsep dasar algoritma dan pengertian dari flowchart serta bagaimana cara pembuatanya
+Resume Introduction to Clean and Hexagonal Architecture:
+- pada pertemuan ini mempelajari definisi dari Clean and Hexagonal Architecture
+- membahas mempelajari context golang
+- membahas mempelajari MVC untuk Clean Code
